@@ -1,0 +1,25 @@
+#boton1{
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: azure;
+    border: none;
+    cursor: pointer;
+}
+#cont{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+cont{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+#centro{
+    width: 300px ;/*ancho del bloque*/
+    margin:0 auto;/*margenes automaticos para centrar*/
+    background-color: aquamarine;/*color de fondo*/
+    padding: 20px;/*espacio interno*/
+    text-align: center;/*centrar texto*/
+}
